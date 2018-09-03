@@ -1,10 +1,10 @@
 # "If I were a girl" - Magic Mirror by StarGAN
 
-This is complementary source code for my [blog post](https://www.dlology.com/blog/if-i-were-a-girl-magic-mirror-by-stargan/).
+This is complementary source code for my **[blog post](https://www.dlology.com/blog/if-i-were-a-girl-magic-mirror-by-stargan/)**.
 
  Here is the [YouTube demo](https://youtu.be/PkWIalWnYUg).
 
-![Magic Mirror](TODO "Magic Mirror")
+![Magic Mirror](https://gitcdn.xyz/cdn/Tony607/blog_statics/2d525ea96d2064895160e666d805295cf97906f0/images/mirror/magic-mirror.png "Magic Mirror")
 
 
 
